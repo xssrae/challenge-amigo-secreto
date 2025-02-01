@@ -160,3 +160,46 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+/* Estilos para a lista de nomes */
+.name-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 16px;
+    margin: 8px 0;
+    background-color: var(--color-white);
+    border-radius: 25px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Botão de remover */
+.button-remove {
+    background-color: #ff4444;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin-left: 10px;
+    font-size: 12px;
+}
+
+.button-remove:hover {
+    background-color: #cc0000;
+}
+
+/* Estilo para os resultados */
+.result-list li {
+    padding: 8px 16px;
+    margin: 8px 0;
+    background-color: var(--color-white);
+    border-radius: 25px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
