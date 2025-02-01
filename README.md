@@ -1,4 +1,4 @@
-# Amigo Secreto
+# Desafio Amigo Secreto
 
 Minha solução para o desafio Amigo Secreto da Oracle One.  Consiste em uma aplicação web simples que permite organizar sorteios de amigo secreto.
 
